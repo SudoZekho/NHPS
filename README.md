@@ -1,8 +1,8 @@
-# Network-Connection-History
-NCH aka Network Connection History is a light and unique script that can show you the passwords of the Wireless Networks that you've been conected. Use it &amp; Enjoy!
+# Network Passwords Shower
+NPS aka Network Passwords Shower is a light and unique script that can show you the passwords of the Wireless Networks that you've been conected. Use it &amp; Enjoy!
 
 Linux : 
-type ./NCH.py in terminal!
+type ./NPS.py in terminal!
 
 Windows : 
-install Python on Your PC and Type "python NCH.py" in Command line!
+install Python on Your PC and Type "python NPS.py" in Command line!
