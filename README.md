@@ -1,7 +1,7 @@
-# Network Passwords Shower
+# Networks Passwords Checker
 
 Linux : 
-type ./NPS.py in terminal!
+type ./NPC.py in terminal!
 
 Windows : 
-install Python on Your PC and Type "python NPS.py" in Command line!
+install Python on Your PC and Type "python NPC.py" in Command line!
