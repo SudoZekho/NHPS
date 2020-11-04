@@ -1,11 +1,11 @@
-# Networks Passwords Checker
+# Retrieve Saved Wifi Credentials
 
-![1234](https://user-images.githubusercontent.com/73932572/98090907-f12cb280-1e99-11eb-8cd9-8d1011022e84.jpg)
+![rswc](https://user-images.githubusercontent.com/73932572/98092650-2508d780-1e9c-11eb-827a-b41eb5e8e051.jpg)
 
 Linux : 
 
-type ./NPC.py in terminal!
+type ./RSWC.py in terminal!
 
 Windows :
  
-install Python on Your PC and Type "python NPC.py" in Command line!
+install Python on Your PC and Type "python RSWC.py" in Command line!
