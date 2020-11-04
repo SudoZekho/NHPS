@@ -1,5 +1,5 @@
 import subprocess
-print ("Network Connection History | By Ali Ertan")
+print ("Network Passwords Shower | By Ali Ertan")
 
 data = subprocess.check_output(['netsh', 'wlan', 'show', 'profiles']).decode('utf-8', errors="backslashreplace").split('\n')
 profiles = [i.split(":")[1][1:-1] for i in data if "All User Profile" in i]
