@@ -3,5 +3,6 @@ NCH aka Network Connection History is a light and unique script that can show yo
 
 Linux : 
 type ./NCH.py in terminal!
+
 Windows : 
 install Python on Your PC and Type "python NCH.py" in Command line!
