@@ -8,4 +8,4 @@ type chmod +x RSWC.py and then ./RSWC.py in terminal!
 
 Windows :
  
-You need to run the Exe file with Administrator permissions!
+You need to run the Exe file as Administrator!
