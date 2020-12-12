@@ -4,8 +4,8 @@
 
 Linux : 
 
-type ./RSWC.py in terminal!
+type chmod +x RSWC.py and the ./RSWC.py in terminal!
 
 Windows :
  
-install Python on Your PC and Type "python RSWC.py" in Command line!
+Just Open The Exe File!
