@@ -4,7 +4,7 @@
 
 Linux : 
 
-type chmod +x RSWC.py and the ./RSWC.py in terminal!
+type chmod +x RSWC.py and then ./RSWC.py in terminal!
 
 Windows :
  
